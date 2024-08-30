@@ -8,9 +8,13 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 ### Experience
  
 IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL	 2024
+
 •	Bio design process associated with development of medical diagnostic and monitoring devices
+
 •	Team leader for multidisciplinary project for development of Neonatal monitoring device 
+
 •	Patent filing and Intellectual Property related contributions.
+
 •	Developed machine learning models for prediction
 SCB DENTAL COLLEGE AND HOSPITAL | SENIOR RESIDENT	2023-2024
 •	Radiological interpretations-2D and 3D imaging modalities
