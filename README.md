@@ -1,4 +1,4 @@
-DENTOMAXILLOFACIAL RADIOLOGIST
+MAXILLOFACIAL RADIOLOGIST
 
 IIT, KHARAGPUR  |   6238408318 |   drajobabu7@gmail.com  | 
 
@@ -12,7 +12,7 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 
 ### Experience
  
-**IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL**	 2024
+IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL	 2024
 
 •	Bio design process associated with development of medical diagnostic and monitoring devices
 •	Team leader for multidisciplinary project for development of Neonatal monitoring device 
@@ -20,14 +20,14 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 •	Developed machine learning models for prediction
 
 
-**SCB DENTAL COLLEGE AND HOSPITAL | SENIOR RESIDENT**	2023-2024
+SCB DENTAL COLLEGE AND HOSPITAL | SENIOR RESIDENT  2023-2024
 
 •	Radiological interpretations-2D and 3D imaging modalities
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies.
 •	Contributions to labelled dataset generations for training algorithms and models.
 
 
-**SCB DENTAL COLLEGE AND HOSPITAL | JUNIOR RESIDENT**	 2020-2023
+SCB DENTAL COLLEGE AND HOSPITAL | JUNIOR RESIDENT	 2020-2023
 
 •	Retrospective studies associated with DL based models for detection of landmarks.
 •	Preprocessing and Data augmentation procedures for CBCT based data.
@@ -36,13 +36,13 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies
 
 
-**SWOSTI DENTAL CLINIC, ODISHA | CLINICAL OBSERVER AND RESEARCHER**	 2018-2020
+SWOSTI DENTAL CLINIC, ODISHA | CLINICAL OBSERVER AND RESEARCHER	 2018-2020
 
 •	Presentation of clinical cases and research-based data collection and processing.
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies
 
 
-**GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN**	 2017-2018
+GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN	 2017-2018
 
 •	Independent management of OPD services and general treatment procedures
 •	Patient education and infection control.
@@ -50,26 +50,27 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 •	Preclinical procedures for prosthetic rehabilitation of maxillofacial surgical outcomes.
 
 
- ### Education
+### Education
 
  
  
-**Indian Institute of Technology, Kharagpur | MedTech Biodesign Fellowship**	2024- Present
-
+Indian Institute of Technology, Kharagpur | MedTech Biodesign Fellowship 	2024- Present
 
 (ICMR-IIT KGP MedTech CLiMB Biodesign Fellowship)	
 
 Major: Electronics and Electrical Communication Engineering | Minor: AI in healthcare 
 
+
+
 Utkal University, Odisha | Master of Dental Surgery (MDS)	  2012-2017
 
-
-**SCB Medical College and Hospital, Cuttack, Odisha**
+SCB Medical College and Hospital | Cuttack, Odisha
 
 Major: Oral Medicine and Radiology
 
-Kerala University of Health Sciences, Kerala | Bachelor of Dental Surgery (BDS)	  2012-2017
 
+
+Kerala University of Health Sciences, Kerala | Bachelor of Dental Surgery (BDS)	  2012-2017
 
 **Government Dental College, Thiruvananthapuram**	
 
@@ -78,9 +79,10 @@ Major: Clinical Dental Subjects | Minor: Basic Sciences
 
  
 ### Projects
+
+
  
 **Medical Image Computing and Computer Assisted Intervention (MCCAI)**                                  2024
-
 
 **TOOTHFAIRY2 Grand Challenge based on Multi-Structure Segmentation in CBCT Volume**
 
@@ -92,7 +94,6 @@ nnU-Net V2 for automated model optimization exemplifies their dedication to adva
 •	nnU-Net V2 framework\
 
 •	These libraries are critical for data manipulation, machine learning operations, and medical image processing, providing a robust foundation for the algorithms.
-
 
 
 **DICOM Viewer and Converter**                                                                                                                            2024
@@ -107,6 +108,7 @@ Dependencies
 •	Pillow: For converting DICOM images to other formats
 •	numpy: For numerical operations and normalization of image data.
 
+
  
 ### Research Initiatives
 
@@ -117,11 +119,13 @@ Dependencies
 **SCB Dental College and Hospital**                                                                                                  2020-2023
 
 
+
 •	Designed a retrospective radiographic study for generation of 3D-annotated maxillofacial CBCT based volumetric dataset.
 
 •	Data collection, preprocessing and  annotation using ITK SNAP, 3D SLICER software 
 
 •	Presentation of the research findings and observations\
+
 
 
 **School of Medical Science Technology, IIT Kharagpur**                                                                    2024
