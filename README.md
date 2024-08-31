@@ -54,6 +54,7 @@ GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN	 | 2017-2018
 •	Preclinical procedures for prosthetic rehabilitation of maxillofacial surgical outcomes.
 
 
+
 ### Education
 
  
@@ -112,6 +113,7 @@ Dependencies
 •	numpy: For numerical operations and normalization of image data.
 
 
+
  
 ### Research Initiatives
 
@@ -147,6 +149,7 @@ Dependencies
 
 
 
+
 ### Undergraduate Research Initiatives
 
 
@@ -177,6 +180,8 @@ Mentor- Dr.Harshakumar K, Professor, and Head of Department,, GDC Thiruvananthap
 •	Presentation of research related findings
 
 
+
+
  
 ### Affiliations 
 
@@ -198,6 +203,8 @@ International Member
 
 **International Association of Student Clinicians- American Dental Association (SCADA)**            2016
 Life Long International Member
+
+
 
 
 ### Awards 
@@ -222,7 +229,9 @@ Gold Medalist for securing maximum marks in MDS examinations
 
 The Most Promising Senior Undergraduate Student in Dentistry
 
- 
+
+
+ 
 ### Workshops and Certificate Courses 
 
 
@@ -252,7 +261,10 @@ Radiological Society of North America                                           
 **Basic Course in Biomedical Research**
 
 ICMR- National Institute of Epidemiology                                                                                             2024 
- 
+
+
+
+ 
 
 ### Conferences Proceedings
 
@@ -288,6 +300,8 @@ Best Paper Award Presentation on “Microbiological Assessment of Religious Thre
 **20th Dentsply IDA Student Clinician Research Program**                                                                                   2016
 
 Table clinic presentation ‘’Twist to Drive Osteotomes for Implant Placement –A Novel Variant for Patient Comfort.’’
+
+
 
 
 
