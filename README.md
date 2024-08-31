@@ -12,7 +12,7 @@ Aiming to contribute to a forward-thinking organization where I can apply my kno
 
 ### Experience
  
-IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL	 2024
+IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL	| 2024
 
 •	Bio design process associated with development of medical diagnostic and monitoring devices
 •	Team leader for multidisciplinary project for development of Neonatal monitoring device 
@@ -20,14 +20,14 @@ IIT KHARAGPUR- EECE DEPARTMENT | RESEARCH INVESTIGATOR-TECHNICAL	 2024
 •	Developed machine learning models for prediction
 
 
-SCB DENTAL COLLEGE AND HOSPITAL | SENIOR RESIDENT  2023-2024
+SCB DENTAL COLLEGE AND HOSPITAL | SENIOR RESIDENT  |2023-2024
 
 •	Radiological interpretations-2D and 3D imaging modalities
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies.
 •	Contributions to labelled dataset generations for training algorithms and models.
 
 
-SCB DENTAL COLLEGE AND HOSPITAL | JUNIOR RESIDENT	 2020-2023
+SCB DENTAL COLLEGE AND HOSPITAL | JUNIOR RESIDENT	| 2020-2023
 
 •	Retrospective studies associated with DL based models for detection of landmarks.
 •	Preprocessing and Data augmentation procedures for CBCT based data.
@@ -36,13 +36,13 @@ SCB DENTAL COLLEGE AND HOSPITAL | JUNIOR RESIDENT	 2020-2023
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies
 
 
-SWOSTI DENTAL CLINIC, ODISHA | CLINICAL OBSERVER AND RESEARCHER	 2018-2020
+SWOSTI DENTAL CLINIC, ODISHA | CLINICAL OBSERVER AND RESEARCHER	| 2018-2020
 
 •	Presentation of clinical cases and research-based data collection and processing.
 •	Collaborated with interdisciplinary teams for treatment planning of maxillofacial pathologies
 
 
-GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN	 2017-2018
+GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN	 | 2017-2018
 
 •	Independent management of OPD services and general treatment procedures
 •	Patient education and infection control.
@@ -54,15 +54,14 @@ GOVERNMENT DENTAL COLLEGE, THIRUVANANTHAPURAM | INTERN	 2017-2018
 
  
  
-Indian Institute of Technology, Kharagpur | MedTech Biodesign Fellowship 	2024- Present
+Indian Institute of Technology, Kharagpur | MedTech Biodesign Fellowship |	2024- Present
 
 (ICMR-IIT KGP MedTech CLiMB Biodesign Fellowship)	
 
 Major: Electronics and Electrical Communication Engineering | Minor: AI in healthcare 
 
 
-
-Utkal University, Odisha | Master of Dental Surgery (MDS)	  2012-2017
+Utkal University, Odisha | Master of Dental Surgery (MDS)	  | 2012-2017
 
 SCB Medical College and Hospital | Cuttack, Odisha
 
@@ -70,7 +69,7 @@ Major: Oral Medicine and Radiology
 
 
 
-Kerala University of Health Sciences, Kerala | Bachelor of Dental Surgery (BDS)	  2012-2017
+Kerala University of Health Sciences, Kerala | Bachelor of Dental Surgery (BDS)	  | 2012-2017
 
 **Government Dental College, Thiruvananthapuram**	
 
