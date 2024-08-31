@@ -4,7 +4,7 @@ IIT, KHARAGPUR  |   6238408318 |   drajobabu7@gmail.com  |
 
 
 
-**Skills:** Medical and Dental Radiology, Python, SPSS, LLMs,MatLab
+**Skills:** Medical and Dental Radiology, Python, SPSS, ML/DL Models for Healthcare
 
 
 **About Me**
@@ -151,6 +151,7 @@ Dependencies
 
 
 
+
  
 **Department of Conservative Dentistry & Endodontics**                                                               2016-2017
 
@@ -181,6 +182,8 @@ Mentor- Dr.Harshakumar K, Professor, and Head of Department,, GDC Thiruvananthap
 
 
 
+
+
 **European Academy of Dentomaxillofacial Radiology (EADMFR)**                                                                   2024
 International Student Member
 
@@ -198,6 +201,8 @@ Life Long International Member
 
 
 ### Awards 
+
+
 
 
  
@@ -219,6 +224,7 @@ The Most Promising Senior Undergraduate Student in Dentistry
 
  
 ### Workshops and Certificate Courses 
+
 
 
 
@@ -249,6 +255,8 @@ ICMR- National Institute of Epidemiology                                        
  
 
 ### Conferences Proceedings
+
+
 
 
  
@@ -284,6 +292,8 @@ Table clinic presentation ‘’Twist to Drive Osteotomes for Implant Placement 
 
 
 ### Leadership and Community Services
+
+
 
 
 
