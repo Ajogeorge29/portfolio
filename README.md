@@ -1,10 +1,11 @@
 ## MAXILLOFACIAL RADIOLOGIST
 
-IIT, KHARAGPUR  |   6238408318 |   drajobabu7@gmail.com  | 
+
+  6238408318 |   drajobabu7@gmail.com  | 
 
 
 
-**Skills:** Medical and Dental Radiology, Python, SPSS, ML/DL Models for Healthcare
+**Skills:**  Medical and Dental Radiology, Python, SPSS, ML/DL Models for Healthcare
 
 
 **About Me**
