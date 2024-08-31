@@ -1,6 +1,8 @@
-MAXILLOFACIAL RADIOLOGIST
+## MAXILLOFACIAL RADIOLOGIST
 
 IIT, KHARAGPUR  |   6238408318 |   drajobabu7@gmail.com  | 
+
+
 
 **Skills:** Medical and Dental Radiology, Python, SPSS, LLMs,MatLab
 
@@ -8,6 +10,8 @@ IIT, KHARAGPUR  |   6238408318 |   drajobabu7@gmail.com  |
 **About Me**
 Passionate and highly skilled healthcare professional with expertise in artificial intelligence and medical imaging, seeking a challenging role in AI-driven healthcare innovation. 
 Aiming to contribute to a forward-thinking organization where I can apply my knowledge in deep learning, model development, and medical imaging to solve complex healthcare challenges and advance the field of medical AI.
+
+
 
 
 ### Experience
@@ -71,7 +75,7 @@ Major: Oral Medicine and Radiology
 
 Kerala University of Health Sciences, Kerala | Bachelor of Dental Surgery (BDS)	  | 2012-2017
 
-**Government Dental College, Thiruvananthapuram**	
+Government Dental College, Thiruvananthapuram
 
 Major: Clinical Dental Subjects | Minor: Basic Sciences
 
@@ -112,6 +116,7 @@ Dependencies
 ### Research Initiatives
 
 
+
  
 **Department of Electrical Engineeering, IIT Kharagpur**                                                                    2024
 
@@ -145,6 +150,7 @@ Dependencies
 ### Undergraduate Research Initiatives
 
 
+
  
 **Department of Conservative Dentistry & Endodontics**                                                               2016-2017
 
@@ -173,6 +179,8 @@ Mentor- Dr.Harshakumar K, Professor, and Head of Department,, GDC Thiruvananthap
  
 ### Affiliations 
 
+
+
 **European Academy of Dentomaxillofacial Radiology (EADMFR)**                                                                   2024
 International Student Member
 
@@ -190,6 +198,7 @@ Life Long International Member
 
 
 ### Awards 
+
 
  
 **Medical Image Computing and Computer Assisted Intervention (MCCAI)**                                     2024
@@ -210,6 +219,7 @@ The Most Promising Senior Undergraduate Student in Dentistry
 
  
 ### Workshops and Certificate Courses 
+
 
 
  
@@ -239,6 +249,8 @@ ICMR- National Institute of Epidemiology                                        
  
 
 ### Conferences Proceedings
+
+
  
 **Deep Learning and Medical Imaging Certificate Summer School**                                                                     2024
 
@@ -272,6 +284,8 @@ Table clinic presentation ‘’Twist to Drive Osteotomes for Implant Placement 
 
 
 ### Leadership and Community Services
+
+
 
  
 **Junior Doctors’ Association (JDA)**                                                                                               2021-2022
